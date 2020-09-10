@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction
+title: Blog Setup
 description: 
 summary: 
 tags:
