@@ -6,4 +6,9 @@ summary:
 tags:
 ---
 
-  Last week we started looking into the Terminal. The terminal is an application that allows us to create simple commands so the computer can read, and follow commands. I first learned how to hide applications that show on the bar of our computer. Then, as Osvaldo, Kajari and I were in a zoom call, we learned different commands. The first command I learned was ‘ls’ which is list/ show, which can be used to check the home directory. Then we learned ‘pwd’ which is to print the working directory, as well as ‘cd’ which is used to change the directory. Lastly, we learned ‘mkdir’ which is used to re-make directories. The 'md' command helps to the user to make a directory in a specifi path.
+  Last week we started looking into the Terminal. The Terminal is mainly a way to interact with the computer without the use of the mouse and without any graphical user interface.The terminal allows us to create simple commands so the computer can read, so then it follows the commands. I first learned how to hide applications that show on the bar of our computer. Then, as Osvaldo, Kajari and I were in a zoom call, we learned different commands. 
+  * ls- a command that allows the user to acsess the home directory 
+  * cd-  a command that allows the user to change directory 
+  * pwd-a command that allows the user to print the working directory.
+  * mkdit- a command that allows the userto make a new folder in the terminal.
+  * md- a command that allows the user to make a direcetory in a specific path.
