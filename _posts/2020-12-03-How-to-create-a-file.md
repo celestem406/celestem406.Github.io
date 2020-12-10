@@ -10,7 +10,7 @@ Today is the week after thanksgiving break and Kajari instructed us to work on s
 Once you open projects follow these commands to create an empty index.html file.
 
 * mkdir Thinkment- used to create a folder, not a file.
-* cd Thinkment - Once you have made the file, open the file.
+* cd Thinkment - Once you have made the folder, open the folder.
 * touch index.html - adds an empty html file so you can start working on the page 
 * touch README.md - this has other files in the directory, this is used as a form of keeping things in one place.
 * touch script.js - creates an empty file called script.js
