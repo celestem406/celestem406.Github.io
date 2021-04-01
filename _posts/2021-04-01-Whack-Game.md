@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Whack Game 
+title: Whack a Mole Game 
 description: 
 summary: 
 tags:
