@@ -8,7 +8,7 @@ tags:
 Today, I worked on typing club for about 30 minutes, then I sent my progress to Kajari. Then, we worked on a game which was a game where we had a specific amount of time to whack the mole. So, I followed the tutorial on youtube. [This is the youtube tutorial]  (https://www.youtube.com/watch?v=lhNdUVh3qCc) Then, I finished the game and I talked with Kajari through some specific parts of the game code. 
 The first snippet we talked about was:
 ```
-in here it moves the mole frequently, and it moves the mole every 500 milliseconds?
+// in here it moves the mole frequently, and it moves the mole every 500 milliseconds?
 function moveMole() {
   let timerId = null
   timerId = setInterval(randomSquare, 500)
@@ -50,3 +50,4 @@ square.forEach(className => {
   randomPosition.classList.add('mole')
   ```
   In this part it is using math random position so that it could multiply by 9 which is the number of squares.
+  In the end, I actually changed the speed of how long the mole would appear on each of the individual squares. On the tutorial, that I followed, it was originally 500 milliseconds so I decided to change the number to 750. The reason for this was because 500 was fast so by increasing the number it gave us a bit more time.
