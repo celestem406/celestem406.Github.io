@@ -50,4 +50,5 @@ square.forEach(className => {
   randomPosition.classList.add('mole')
   ```
   In this part it is using math random position so that it could multiply by 9 which is the number of squares.
+  
   In the end, I actually changed the speed of how long the mole would appear on each of the individual squares. On the tutorial, that I followed, it was originally 500 milliseconds so I decided to change the number to 750. The reason for this was because 500 was fast so by increasing the number it gave us a bit more time.
