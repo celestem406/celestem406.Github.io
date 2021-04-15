@@ -10,14 +10,11 @@ As usual today I did  typing club for a bit and then I asked Kajari about a prob
 This week we worked on game 3. The game was connect 4, and we followed the same youtube tutorial we have been following for the past 3 weeks. [This is the youtube tutorial we have been following]  (https://www.youtube.com/watch?v=lhNdUVh3qCc) . So for this game as usual we had to have 3 files. 
 
  In the html file, we were creating the 7 by 6 grid that will be the connect 4 game. I will be creating the grid with the term ‘<div>’ which basically defines the section that we are using.  In this file, we also added a code that will determine who wins the game, and with this code the game will show us who won. The code ‘<div>’ so they can become a square. Then the colors for player one and player 2 are chosen. Player one is red and player 2 is blue. The follwing code will be placed twice because we want player one to be one color and player 2 to be another color.
-
 ```
 .player-one {
   background-color: yellow;
   border-radius: 10px;
   ```
-
-
 In our style.css file we are going to style the game and basically create how tall, and what the game will look like. So when we added div’s in the html file they basically connect to the styling of the game as the grid will be inside the boundaries.
 
 In the app.js file we are writing all our javascript code. 
@@ -25,7 +22,7 @@ First I added a ‘DOMContentLoaded’ this is basically like a jar, and when we
 ```
 } else alert('cant go here')
       checkBoard()
-      ```
+```
 Then, we have to create a function that basically allows the computer to check wether something is right or wrong. So these are the winning arrays that will be checked to see if the player actually won and has 4 dots connected.
 ```
 const winningArrays = [
