@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Progress Check 
+title: Progress Check 
 description: 
 summary: 
 tags:
