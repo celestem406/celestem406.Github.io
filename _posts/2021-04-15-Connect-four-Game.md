@@ -98,3 +98,4 @@ const winningArrays = [
   ]
   ```
 Overall, this game was really interesting to see how we could change the colors of the players, the overall style of the game and how the grid was created.
+[This is the final product of this game!!](https://celestem406.github.io/Connect-four/)
