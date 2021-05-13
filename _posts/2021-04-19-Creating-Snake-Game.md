@@ -49,4 +49,5 @@ Then, we will write if statements, these if statements basically tell the comput
 ```
 direction = -width // if we press the up arrow, the snake will go back ten divs, appearing to go up
     } else if (e.keyCode === 37) {
-``` 
+```
+[This is the final product of the game!](https://celestem406.github.io/Nokia3310-Snake/)
