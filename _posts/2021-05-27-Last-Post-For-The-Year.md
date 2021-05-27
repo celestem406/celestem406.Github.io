@@ -1,0 +1,8 @@
+---
+layout: post
+title: Last Post For The Year
+description: 
+summary: 
+tags: 
+---
+So,today is basically going to be our last work day for 2021. Overall, I can say that I enjoyed this year and that I overall learned a lot. Yesterday, I took my Ap english exam, and then we did our EOY presentation. Overall, it went really well. We talked about what we accomplished throughout the whole year, and our overall growth throughout the whole year. First, I talked about how we set up Git, and how we learned different commands that we needed to use to interact with terminal and to push up things we would work on in the future. Then, I moved on to talk about Html, CSS and Styles which we would use for future tasks/ projects. After, I talked about our website and the process that we went through as we built our website, and some things we learned from creating the website. Lastly, I talked about the 7 games we built during the last few months. I explained 2 of my favorite games which were the memory game and the mole game. I also linked all of the 7 games that we completed at the end of the presentation.Today, We met with Kajari, and we discussed about our placement for next year, and what we would like to do for next year and we talked about how we were doing and just a brief check-in.For our last task, Kajari asked us to go into the catch monsters game. So, we checked our past rull requests and basically reverted the monster's position so they could appear randomly in the canvas. I think for next year I am interested in working with html. 
