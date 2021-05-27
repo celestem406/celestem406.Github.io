@@ -1,0 +1,12 @@
+---
+layout: post
+title: Last Post For The Year
+description: 
+summary: 
+tags: 
+---
+So, today is our last work day for the 2021 school year. Overall, I can say that I enjoyed this year and that I overall learned a lot. Yesterday, I took my Ap english exam, and then we presented our EOY presentation. Overall, it went really well. We talked about what we accomplished throughout the whole year, and our overall growth . First, I talked about how we set up Git, and how we learned different commands that we needed to use to interact with terminal and to push up things we would work on in the future. Then, I moved on to talk about Html, CSS and Styles which we would use for some future tasks/ projects. After, I talked about our website and the process that we went through as we built our website, and some things we learned from creating the website. Lastly, I talked about the 7 games we built during the last few months. I explained 2 of my favorite games which were the memory game and the mole game. I also linked all of the 7 games that we completed at the end of the presentation. 
+
+During the presentation, I spoke through my microphone and Osvaldo switched slides as I talked throughout the presentation. I felt like it was much easier to have someone present for me instead of me presenting and speaking. I think that we could have done much better if we had made more time to run through the presentation, and to also memorize most of the presentation. I am looking forward to doing presentations in person next year, in person because I feel like they have different aspects but they also have much in common and I would like to feel the difference between them. One thing I liked throughout this year was my patience and Kajari's patience with me throughout the year. At first, I struggled to understand many commands and their use, but then as the year went on, with practice I started learning more and I started paying more attention to smaller details. 
+
+Today, We met with Kajari, and we discussed our placement for next year, and what we would like to do for next year and we talked about how we were doing and just a brief check-in.For our last task, Kajari asked us to go into the catch monsters game to revert the position of the monsters. So, we checked our past pull requests and reverted the monster's position so they could appear randomly on the canvas. I think for next year I am interested in working with html because I am more interested in html than games although games are fun as well.
